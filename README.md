@@ -29,8 +29,6 @@
 
 ## CONOCIMIENTOS
 
-👉 Full Stack developer con gusto por el BackEnd
-
 👉 Gestión de proyectos con metodologías ágiles basadas en Scrum y Kanban.
 
 👉 Lenguaje (JavaScript/Node)
