@@ -27,8 +27,12 @@
 
 ## CONOCIMIENTOS
 
-👉 Gestión de proyectos con metodologías ágiles basadas en Scrum y Kanban.
+👉 Linux
+
+👉 Ciberseguridad
 
 👉 Lenguaje (JavaScript/Node)
 
 👉 Bases de datos (SQL, PostgreSQL)
+
+👉 Gestión de proyectos con metodologías ágiles basadas en Scrum y Kanban.
