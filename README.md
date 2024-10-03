@@ -1,4 +1,4 @@
-<img src="/img/banner.png" alt="Baner">
+<img src="/img/Banner.jpg" alt="Banner">
 
 <p>
   <samp>
