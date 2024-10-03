@@ -36,3 +36,33 @@
 👉 Bases de datos (SQL, PostgreSQL)
 
 👉 Gestión de proyectos con metodologías ágiles basadas en Scrum y Kanban.
+
+### 🛠 Languages
+
+<p align="left">
+
+   <a href="https://www.gnu.org/">
+    <img alt="Bash" src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
+  </a>
+   &emsp;
+  
+  <a href="https://python.org/">
+    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  </a>
+   &emsp;
+
+  <a href="https://www.javascript.com/en/">
+    <img alt="JS" src="https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"/>
+  </a>
+   &emsp;
+
+ <a href="https://www.html.com/en/">
+    <img alt="HTML" src="https://img.shields.io/badge/Html-E44D26?style=for-the-badge&logo=html5&logoColor=white"/>
+  </a>
+   &emsp;
+
+   <a href="https://www.css.com/en/">
+    <img alt="Css" src="https://img.shields.io/badge/Css-4481EB?style=for-the-badge&logo=css3&logoColor=white"/>
+  </a>
+  
+</p>  
