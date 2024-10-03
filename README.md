@@ -2,29 +2,27 @@
 
 <p>
   <samp>
-    👋 HOLA 👋 
+    <h1>👋 HOLA 👋</h1> 
     <br>
-    Soy Gabriel Farias!
+    <h2>Soy Gabriel Farias!</h2>
     <br>
-    Muchas gracias por visitar mi perfil.
+    <h2>Muchas gracias por visitar mi perfil.</h2>
   </samp>
 </p>
 <p>
-<br>
+  <br>
     En mis repos de Github vas a poder encontrar proyectos realizados como ejercicios de autoaprendizaje y de cursos realizados.
     <br><br>
-    Podés conectar conmigo en <a href="https://www.linkedin.com/in/gabriel-alejandro-farias-581577186/" target="_blank"> Linkedin </a>, ahí podrás enviarme un mensaje para que podamos charlar mejor.
+    Podés conectar conmigo en <a href="https://www.linkedin.com/in/gabriel-alejandro-farias-581577186/" target="_blank"> Linkedin </a>, ahí podrás enviarme un mensaje para que podamos        charlar mejor.
     <br><br>
-    Además podes seguirme en Instragram <a href="https://www.instagram.com/gabifarias36/" target="_blank"> @gabifarias36 </a>.
 </p>
 
 <p align="center">
+  
   <a href="https://www.linkedin.com/in/gabriel-alejandro-farias-581577186/" target="_blank">
     <img src="/img/social/linkedin.svg" width="45px" alt="LinkedIn">
   </a> &nbsp; &nbsp;
-  <a href="https://www.instagram.com/gabifarias36/" target="_blank">
-    <img src="/img/social/instagram.svg" width="45px" alt="Instagram">
-  </a> &nbsp; &nbsp;
+  
 </p>
 
 ## CONOCIMIENTOS
@@ -33,14 +31,4 @@
 
 👉 Lenguaje (JavaScript/Node)
 
-👉 Framework (Express)
-
-👉 ORM (Sequelize)
-
-👉 Validaciones (Auth0)
-
-👉 Bases de datos (SQL, PostgreSQL, MongoDB)
-
-👉 APIs REST
-
-👉 Aprendiendo (Docker, Seguridad OWASP, Pruebas unitarias, Cloud AWS, Patrones de diseño y Arquitectura)
+👉 Bases de datos (SQL, PostgreSQL)
