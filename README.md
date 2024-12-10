@@ -19,7 +19,7 @@
 
 <p align="center">
   
-  <a href="https://www.linkedin.com/in/gabriel-alejandro-farias-581577186/" target="_blank">
+  <a href="" target="_blank">
     <img src="/img/social/linkedin.svg" width="45px" alt="LinkedIn">
   </a> &nbsp; &nbsp;
   
