@@ -13,7 +13,7 @@
   <br>
     En mis repos de Github vas a poder encontrar proyectos realizados como ejercicios de autoaprendizaje y de cursos realizados.
     <br><br>
-    Podés conectar conmigo en <a href="https://www.linkedin.com/in/gabriel-alejandro-farias-581577186/" target="_blank"> Linkedin </a>, ahí podrás enviarme un mensaje para que podamos        charlar mejor.
+    Podés conectar conmigo en <a href="" target="_blank"> Linkedin </a>, ahí podrás enviarme un mensaje para que podamos        charlar mejor.
     <br><br>
 </p>
 
